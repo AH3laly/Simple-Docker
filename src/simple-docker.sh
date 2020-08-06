@@ -1,6 +1,6 @@
 #!/bin/bash
 # Software Development and Deployment Script
-#Created By github/abd0m0hamed
+#Created By github/AH3laly
 
 APP_PATH=/opt/simple-docker
 
@@ -221,6 +221,3 @@ fi
 
 pub-$1 $2 $3 $4 $5 $6 $7 $8 $9
 
-#login abd0m0hamed abdo.tasks@gmail.com
-#echo $?
-#handleCommand

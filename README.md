@@ -18,7 +18,7 @@
 ## How to install?
 
 ```sh
-git pull https://github.com/abd0m0hamed/Simple-Docker
+git pull https://Github.com/AH3laly/Simple-Docker
 cd Simple-Docker
 sudo ./install.sh
 ```
